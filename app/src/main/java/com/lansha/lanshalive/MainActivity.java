@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void init() {
         Log.e("", "init: " );
+        Log.e("", "init: " );
+        Log.e("", "init: " );
     }
 }
